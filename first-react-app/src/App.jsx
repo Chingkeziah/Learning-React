@@ -7,9 +7,9 @@ import React from 'react'
 function App() {
   return (
     <div>
-      <header></header>
-      <body></body>
-      <footer></footer>
+      <Header />
+      <Body />
+      <Footer />
     </div>
   )
 }
